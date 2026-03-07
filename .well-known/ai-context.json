@@ -1,0 +1,199 @@
+{
+  "version": "1.0",
+  "site": {
+    "name": "Giyas Umarov Memorial",
+    "url": "https://giyas-umarov.com",
+    "description": "Multilingual memorial website for Academician Giyas Yakubovich Umarov (1921-1988), Central Asian nuclear physicist, founder of heliotechnology in Uzbekistan, creator of the Large Solar Furnace in Tashkent, and pioneer of aquifer thermal energy storage (ATES).",
+    "languages": ["en", "ru", "uz", "fr", "es", "ko", "ja", "zh"],
+    "total_pages": 57,
+    "llms_txt": "https://giyas-umarov.com/llms.txt",
+    "llms_full_txt": "https://giyas-umarov.com/llms-full.txt",
+    "sitemap": "https://giyas-umarov.com/sitemap.xml"
+  },
+  "subject": {
+    "type": "Person",
+    "name": "Giyas Yakubovich Umarov",
+    "alternate_names": [
+      "Гияс Якубович Умаров",
+      "G.Ya. Umarov",
+      "Г.Я. Умаров",
+      "Giyas Umarov"
+    ],
+    "birth_date": "1921-12-25",
+    "birth_place": "Tashkent, Uzbek SSR",
+    "death_year": 1988,
+    "death_place": "Tashkent",
+    "nationality": ["Soviet", "Uzbekistani"],
+    "fields": [
+      "Nuclear Physics",
+      "Heliotechnology",
+      "Solar Energy",
+      "Aquifer Thermal Energy Storage",
+      "Stirling Engines",
+      "Plasma Physics",
+      "Beta-Spectroscopy"
+    ],
+    "title": "Academician",
+    "institutions": [
+      "Radium Institute, Leningrad",
+      "Moscow State University",
+      "Joint Institute for Nuclear Research (JINR), Dubna",
+      "Physical-Technical Institute, Tashkent",
+      "Academy of Sciences of the Uzbek SSR"
+    ],
+    "awards": [
+      "Order of Honor (USSR)",
+      "Medal for Distinguished Labor"
+    ],
+    "statistics": {
+      "dissertations_supervised": 54,
+      "scientific_articles": "250+",
+      "monographs": 4,
+      "patents": 31
+    },
+    "wikipedia": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BC%D0%B0%D1%80%D0%BE%D0%B2,_%D0%93%D0%B8%D1%8F%D1%81_%D0%AF%D0%BA%D1%83%D0%B1%D0%BE%D0%B2%D0%B8%D1%87"
+  },
+  "key_achievements": [
+    {
+      "year": 1949,
+      "title": "First nuclear physicist from Uzbekistan",
+      "description": "Defended dissertation at Moscow State University, debated Lev Landau on neutrino mass. Council voted unanimously (43-0) in his favor."
+    },
+    {
+      "year": 1963,
+      "title": "Founded heliotechnology in Uzbekistan",
+      "description": "Created the Helio Department at FTI Tashkent with 4 laboratories and a design bureau."
+    },
+    {
+      "year": 1965,
+      "title": "Founded Heliotechnika journal",
+      "description": "Premier Soviet solar energy journal, now published by Springer as Applied Solar Energy."
+    },
+    {
+      "year": 1971,
+      "title": "Pioneer of Aquifer Thermal Energy Storage",
+      "description": "Published foundational ATES paper cited by Lawrence Berkeley Lab as the starting point for the entire field, two years before Western researchers."
+    },
+    {
+      "year": 1973,
+      "title": "UNESCO Paris representative",
+      "description": "Represented USSR at 'The Sun at the Service of Humanity' conference."
+    },
+    {
+      "year": 1987,
+      "title": "Large Solar Furnace completed",
+      "description": "1 MW concentrating solar facility near Tashkent — one of only two of its kind in the world."
+    }
+  ],
+  "articles": [
+    {
+      "slug": "nuclear-physics",
+      "title": "Nuclear Physics: From Leningrad to Dubna",
+      "topics": ["Landau debate", "beta-spectroscopy", "JINR Dubna", "Kurchatov plasma laboratory", "tokamak"],
+      "period": "1946-1963",
+      "url": "https://giyas-umarov.com/articles/nuclear-physics.html"
+    },
+    {
+      "slug": "heliotechnology",
+      "title": "Heliotechnology & Solar Power",
+      "topics": ["Helio Department", "Heliotechnika journal", "UNESCO Paris 1973", "Large Solar Furnace", "Odeillo"],
+      "period": "1954-1987",
+      "url": "https://giyas-umarov.com/articles/heliotechnology.html"
+    },
+    {
+      "slug": "aquifer-thermal-storage",
+      "title": "Aquifer Thermal Energy Storage (ATES)",
+      "topics": ["1971 foundational paper", "Lawrence Berkeley Lab citation", "seasonal thermal storage", "mismatch problem"],
+      "period": "1971",
+      "url": "https://giyas-umarov.com/articles/aquifer-thermal-storage.html"
+    },
+    {
+      "slug": "stirling-engines",
+      "title": "Stirling Engine Research",
+      "topics": ["solar Stirling engines", "heat exchangers", "regenerator efficiency", "dish-Stirling concept"],
+      "period": "1972-1978",
+      "url": "https://giyas-umarov.com/articles/stirling-engines.html"
+    },
+    {
+      "slug": "agricultural-solar",
+      "title": "Agricultural Solar Applications",
+      "topics": ["PCSR seed treatment", "solar drying", "desalination", "photo-destructive films", "cotton irradiation"],
+      "period": "1973-1988",
+      "url": "https://giyas-umarov.com/articles/agricultural-solar.html"
+    },
+    {
+      "slug": "scientific-legacy",
+      "title": "Scientific Legacy & Global Influence",
+      "topics": ["Davos recognition", "international citations", "institutional roles", "awards"],
+      "url": "https://giyas-umarov.com/articles/scientific-legacy.html"
+    },
+    {
+      "slug": "publications",
+      "title": "Complete Publications & Bibliography",
+      "topics": ["monographs", "research papers", "third-party references", "source PDFs"],
+      "url": "https://giyas-umarov.com/articles/publications.html"
+    }
+  ],
+  "source_documents": [
+    {
+      "filename": "thermal-energy-storage-aquifers-lbl-workshop.pdf",
+      "title": "LBL Workshop Proceedings — Thermal Energy Storage in Aquifers (1978)",
+      "url": "https://giyas-umarov.com/assets/docs/thermal-energy-storage-aquifers-lbl-workshop.pdf"
+    },
+    {
+      "filename": "military-report-ADA357675.pdf",
+      "title": "U.S. Military Technical Report ADA357675",
+      "url": "https://giyas-umarov.com/assets/docs/military-report-ADA357675.pdf"
+    },
+    {
+      "filename": "jsir-cotton-yield-pcsr-1999.pdf",
+      "title": "JSIR Cotton Yield PCSR Review (1999)",
+      "url": "https://giyas-umarov.com/assets/docs/jsir-cotton-yield-pcsr-1999.pdf"
+    },
+    {
+      "filename": "stirling-engine-design-manual-nasa.pdf",
+      "title": "NASA Stirling Engine Design Manual",
+      "url": "https://giyas-umarov.com/assets/docs/stirling-engine-design-manual-nasa.pdf"
+    },
+    {
+      "filename": "nasa-solar-energy-report-73151640.pdf",
+      "title": "NASA Solar Energy Report",
+      "url": "https://giyas-umarov.com/assets/docs/nasa-solar-energy-report-73151640.pdf"
+    },
+    {
+      "filename": "scientific-contributions-research-profile.pdf",
+      "title": "Scientific Contributions and Research Profile of G.Ya. Umarov",
+      "url": "https://giyas-umarov.com/assets/docs/scientific-contributions-research-profile.pdf"
+    },
+    {
+      "filename": "academician-giyas-umarov-biography.pdf",
+      "title": "Academician Giyas Umarov Biography",
+      "url": "https://giyas-umarov.com/assets/docs/academician-giyas-umarov-biography.pdf"
+    },
+    {
+      "filename": "technical-monograph-thermal-energy-science.pdf",
+      "title": "Technical Monograph — Foundational Contributions to Thermal Energy Science",
+      "url": "https://giyas-umarov.com/assets/docs/technical-monograph-thermal-energy-science.pdf"
+    },
+    {
+      "filename": "soviet-scientist-predicted-future-1971.pdf",
+      "title": "Soviet Scientist Predicted the Future, 1971 — Analysis (Russian)",
+      "url": "https://giyas-umarov.com/assets/docs/soviet-scientist-predicted-future-1971.pdf"
+    },
+    {
+      "filename": "umarov-heat-solar.pdf",
+      "title": "Heat and Mass Transfer Bibliography — Soviet Works (1974)",
+      "url": "https://giyas-umarov.com/assets/docs/umarov-heat-solar.pdf"
+    },
+    {
+      "filename": "umarov-thermal-conductivity-absorption.pdf",
+      "title": "Thermal Conductivity and Absorption Coefficient (UNLV, 2007)",
+      "url": "https://giyas-umarov.com/assets/docs/umarov-thermal-conductivity-absorption.pdf"
+    },
+    {
+      "filename": "stirling-mqp-final-2014.pdf",
+      "title": "WPI Stirling Engine Design Project (2014)",
+      "url": "https://giyas-umarov.com/assets/docs/stirling-mqp-final-2014.pdf"
+    }
+  ]
+}

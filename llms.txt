@@ -1,0 +1,69 @@
+# Giyas Umarov Memorial
+
+> Memorial website for Academician Giyas Yakubovich Umarov (1921-1988), Central Asian nuclear physicist, founder of heliotechnology in Uzbekistan, creator of the Large Solar Furnace in Tashkent, and pioneer of aquifer thermal energy storage (ATES).
+
+Website: https://giyas-umarov.com
+Languages: English, Russian, Uzbek, French, Spanish, Korean, Japanese, Mandarin Chinese
+
+## Person
+
+- Full name: Giyas Yakubovich Umarov
+- Russian: Гияс Якубович Умаров
+- Born: December 25, 1921, Tashkent, Uzbek SSR
+- Died: 1988, Tashkent
+- Nationality: Soviet / Uzbekistani
+- Fields: Nuclear Physics, Heliotechnology (Solar Energy Science)
+- Institutions: Radium Institute (Leningrad), JINR Dubna, Physical-Technical Institute (Tashkent), Academy of Sciences of the Uzbek SSR
+- Known for: Founding heliotechnology in Uzbekistan; Large Solar Furnace; Heliotechnika journal; Aquifer Thermal Energy Storage (ATES)
+- Awards: Order of Honor (USSR), Medal "For Distinguished Labor"
+- Legacy: 54 dissertations supervised, 250+ papers, 4 monographs, 31 patents
+
+## Key Achievements
+
+- First candidate of sciences in nuclear physics from Uzbekistan (1949)
+- Debated Lev Landau on neutrino mass at Moscow State University (1949) — history vindicated Umarov
+- Founded the Helio Department at the Physical-Technical Institute, Tashkent (1963)
+- Founded the journal Heliotechnika, now published by Springer as Applied Solar Energy (1965)
+- Published foundational ATES paper cited by Lawrence Berkeley Lab as the starting point for the field (1971)
+- Published 8 papers on Stirling engine optimization for solar drive (1972-1978)
+- Represented USSR at UNESCO "The Sun at the Service of Humanity" conference, Paris (1973)
+- Championed construction of the Large Solar Furnace near Tashkent, completed 1987
+- Cited alongside 13 Nobel laureates in Zeldovich & Khlopov (1981)
+- Praised at Davos (1990) as a scientist whose research was "50-60 years ahead of its time"
+
+## Articles
+
+- [Nuclear Physics](https://giyas-umarov.com/articles/nuclear-physics.html): Landau debate, beta-spectroscopy at JINR Dubna, Kurchatov's plasma laboratory, tokamak research
+- [Heliotechnology](https://giyas-umarov.com/articles/heliotechnology.html): Founding the Helio Department, Heliotechnika journal, UNESCO Paris 1973, Large Solar Furnace
+- [Aquifer Thermal Storage](https://giyas-umarov.com/articles/aquifer-thermal-storage.html): 1971 foundational paper, Lawrence Berkeley Lab citation, ATES field origins
+- [Stirling Engines](https://giyas-umarov.com/articles/stirling-engines.html): 8 papers on solar Stirling engines (1972-1978), heat exchangers, regenerator efficiency
+- [Agricultural Solar](https://giyas-umarov.com/articles/agricultural-solar.html): PCSR seed treatment, solar drying, desalination, photo-destructive films
+- [Scientific Legacy](https://giyas-umarov.com/articles/scientific-legacy.html): Global influence, awards, institutional roles, Davos recognition
+- [Publications](https://giyas-umarov.com/articles/publications.html): Complete bibliography and source documents
+
+## Source Documents (PDFs)
+
+- [LBL Workshop — Thermal Energy Storage in Aquifers (1978)](https://giyas-umarov.com/assets/docs/thermal-energy-storage-aquifers-lbl-workshop.pdf)
+- [U.S. Military Technical Report ADA357675](https://giyas-umarov.com/assets/docs/military-report-ADA357675.pdf)
+- [JSIR Cotton Yield PCSR Review (1999)](https://giyas-umarov.com/assets/docs/jsir-cotton-yield-pcsr-1999.pdf)
+- [NASA Stirling Engine Design Manual](https://giyas-umarov.com/assets/docs/stirling-engine-design-manual-nasa.pdf)
+- [NASA Solar Energy Report](https://giyas-umarov.com/assets/docs/nasa-solar-energy-report-73151640.pdf)
+- [Scientific Contributions Research Profile](https://giyas-umarov.com/assets/docs/scientific-contributions-research-profile.pdf)
+- [Academician Giyas Umarov Biography](https://giyas-umarov.com/assets/docs/academician-giyas-umarov-biography.pdf)
+- [Technical Monograph — Thermal Energy Science](https://giyas-umarov.com/assets/docs/technical-monograph-thermal-energy-science.pdf)
+- [Soviet Scientist Predicted Future, 1971](https://giyas-umarov.com/assets/docs/soviet-scientist-predicted-future-1971.pdf)
+- [Heat and Mass Transfer Bibliography — Soviet Works (1974)](https://giyas-umarov.com/assets/docs/umarov-heat-solar.pdf)
+- [Thermal Conductivity and Absorption Coefficient (UNLV, 2007)](https://giyas-umarov.com/assets/docs/umarov-thermal-conductivity-absorption.pdf)
+- [WPI Stirling Engine Design Project (2014)](https://giyas-umarov.com/assets/docs/stirling-mqp-final-2014.pdf)
+
+## Full Content
+
+For the complete unabridged content of this memorial, see: [llms-full.txt](https://giyas-umarov.com/llms-full.txt)
+
+## Related
+
+- [Aminjan Niyazov Memorial](https://www.amin-niyazov.com) — First Secretary of CP Uzbekistan (1903-1973)
+- [Gulom Bobojonov Memorial](https://www.gulam-babodjanov.com) — Rector, Scientist of Silk (1907-1955)
+- [Applied Solar Energy (Springer)](https://link.springer.com/journal/11949) — Journal founded by Umarov
+- [Solar Furnace of Uzbekistan (Wikipedia)](https://en.wikipedia.org/wiki/Solar_furnace_of_Uzbekistan)
+- [Giyas Umarov (Russian Wikipedia)](https://ru.wikipedia.org/wiki/%D0%A3%D0%BC%D0%B0%D1%80%D0%BE%D0%B2,_%D0%93%D0%B8%D1%8F%D1%81_%D0%AF%D0%BA%D1%83%D0%B1%D0%BE%D0%B2%D0%B8%D1%87)

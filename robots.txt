@@ -2,3 +2,9 @@ User-agent: *
 Allow: /
 
 Sitemap: https://giyas-umarov.com/sitemap.xml
+
+# AI / LLM agent context
+# See https://llmstxt.org for the llms.txt specification
+# llms.txt: structured overview for AI agents
+# llms-full.txt: complete unabridged site content
+# .well-known/ai-context.json: machine-readable structured data
