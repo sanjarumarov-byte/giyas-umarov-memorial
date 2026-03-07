@@ -5,7 +5,7 @@
     "url": "https://giyas-umarov.com",
     "description": "Multilingual memorial website for Academician Giyas Yakubovich Umarov (1921-1988), Central Asian nuclear physicist, founder of heliotechnology in Uzbekistan, creator of the Large Solar Furnace in Tashkent, and pioneer of aquifer thermal energy storage (ATES).",
     "languages": ["en", "ru", "uz", "fr", "es", "ko", "ja", "zh"],
-    "total_pages": 57,
+    "total_pages": 65,
     "llms_txt": "https://giyas-umarov.com/llms.txt",
     "llms_full_txt": "https://giyas-umarov.com/llms-full.txt",
     "sitemap": "https://giyas-umarov.com/sitemap.xml"
@@ -92,6 +92,13 @@
       "topics": ["Landau debate", "beta-spectroscopy", "JINR Dubna", "Kurchatov plasma laboratory", "tokamak"],
       "period": "1946-1963",
       "url": "https://giyas-umarov.com/articles/nuclear-physics.html"
+    },
+    {
+      "slug": "neutrino",
+      "title": "The 1949 Neutrino Paper: beta-Decay of RaE",
+      "topics": ["1949 JETP article", "Zavelsky Umarov Matushevsky", "beta-decay RaE", "neutrino mass estimate", "Landau debate origin", "National Library of Georgia"],
+      "period": "1949",
+      "url": "https://giyas-umarov.com/articles/neutrino.html"
     },
     {
       "slug": "heliotechnology",

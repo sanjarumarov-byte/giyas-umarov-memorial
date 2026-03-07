@@ -115,6 +115,112 @@
     <changefreq>yearly</changefreq>
   </url>
 
+  <!-- Neutrino (1949 JETP Paper) -->
+  <url>
+    <loc>https://giyas-umarov.com/articles/neutrino.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://giyas-umarov.com/ko/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://giyas-umarov.com/ja/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://giyas-umarov.com/zh/articles/neutrino.html"/>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/ru/articles/neutrino.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://giyas-umarov.com/ko/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://giyas-umarov.com/ja/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://giyas-umarov.com/zh/articles/neutrino.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/uz/articles/neutrino.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://giyas-umarov.com/ko/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://giyas-umarov.com/ja/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://giyas-umarov.com/zh/articles/neutrino.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/fr/articles/neutrino.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://giyas-umarov.com/ko/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://giyas-umarov.com/ja/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://giyas-umarov.com/zh/articles/neutrino.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/es/articles/neutrino.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://giyas-umarov.com/ko/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://giyas-umarov.com/ja/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://giyas-umarov.com/zh/articles/neutrino.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/ko/articles/neutrino.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://giyas-umarov.com/ko/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://giyas-umarov.com/ja/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://giyas-umarov.com/zh/articles/neutrino.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/ja/articles/neutrino.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://giyas-umarov.com/ko/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://giyas-umarov.com/ja/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://giyas-umarov.com/zh/articles/neutrino.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/zh/articles/neutrino.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://giyas-umarov.com/ko/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://giyas-umarov.com/ja/articles/neutrino.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://giyas-umarov.com/zh/articles/neutrino.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
   <!-- Heliotechnology -->
   <url>
     <loc>https://giyas-umarov.com/articles/heliotechnology.html</loc>

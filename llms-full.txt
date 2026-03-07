@@ -64,6 +64,10 @@ The young Giyas Umarov traveled from Tashkent to Leningrad to pursue graduate st
 
 During his first demonstration in Khlopin's laboratory, the equipment malfunctioned — no readings appeared. The young physicist was mortified. Khlopin simply smiled and said: "That's called the Visit Effect" — and accepted him as a graduate student on the spot.
 
+### 1949 — The JETP Neutrino Paper
+
+In December 1949, the Journal of Experimental and Theoretical Physics (JETP) published "beta-raspad RaE" (beta-Decay of RaE) by A.S. Zavelsky, G.Ya. Umarov, and S.Kh. Matushevsky (Vol. 19, Issue 12, pp. 1136-1140). Using a beta-spectrometer with transverse magnetic focusing, the authors measured the complete beta-spectrum of Radium E (Bismuth-210). They demonstrated that the spectrum was complex (not elementary), established an upper boundary at 1165 +/- 5 keV, discovered anomalous slow electrons contradicting Fermi's theory, and — crucially — established an upper limit on the neutrino rest mass of no more than 1/50 to 1/100 of the electron mass. This estimate was radical for 1949, when the consensus placed neutrino mass at 0.3-0.8 electron masses. A copy of the original article was provided by the National Library of Georgia. Article scans available at: https://giyas-umarov.com/articles/neutrino.html
+
 ### 1949 — The Landau Debate
 
 At Moscow State University, Umarov prepared to defend his dissertation on nuclear physics — making him the first candidate of sciences in this field from Uzbekistan. During the pre-defense review, the great Lev Landau challenged his estimate of neutrino mass. The prevailing view placed it at 0.3-0.8 of electron mass. Umarov argued it was no more than 1/50 to 1/100 of the electron's mass — a position far closer to modern understanding.
@@ -229,9 +233,9 @@ All available at https://giyas-umarov.com/assets/docs/
 ## Site Structure
 
 - Homepage: https://giyas-umarov.com/ (8 languages via JS i18n)
-- Articles (English): /articles/{nuclear-physics,heliotechnology,aquifer-thermal-storage,stirling-engines,agricultural-solar,scientific-legacy,publications}.html
-- Translations: /{ru,uz,fr,es,ko,ja,zh}/articles/ (same 7 article slugs per language)
-- 57 pages total: 1 homepage + 56 article pages (7 articles x 8 languages)
+- Articles (English): /articles/{nuclear-physics,neutrino,heliotechnology,aquifer-thermal-storage,stirling-engines,agricultural-solar,scientific-legacy,publications}.html
+- Translations: /{ru,uz,fr,es,ko,ja,zh}/articles/ (same 8 article slugs per language)
+- 65 pages total: 1 homepage + 64 article pages (8 articles x 8 languages)
 
 ## Family Context
 

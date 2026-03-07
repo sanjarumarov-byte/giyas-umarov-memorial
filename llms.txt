@@ -34,6 +34,7 @@ Languages: English, Russian, Uzbek, French, Spanish, Korean, Japanese, Mandarin 
 ## Articles
 
 - [Nuclear Physics](https://giyas-umarov.com/articles/nuclear-physics.html): Landau debate, beta-spectroscopy at JINR Dubna, Kurchatov's plasma laboratory, tokamak research
+- [The 1949 Neutrino Paper](https://giyas-umarov.com/articles/neutrino.html): Original 1949 JETP article on beta-decay of RaE by Zavelsky, Umarov & Matushevsky; neutrino mass estimate; scans from National Library of Georgia
 - [Heliotechnology](https://giyas-umarov.com/articles/heliotechnology.html): Founding the Helio Department, Heliotechnika journal, UNESCO Paris 1973, Large Solar Furnace
 - [Aquifer Thermal Storage](https://giyas-umarov.com/articles/aquifer-thermal-storage.html): 1971 foundational paper, Lawrence Berkeley Lab citation, ATES field origins
 - [Stirling Engines](https://giyas-umarov.com/articles/stirling-engines.html): 8 papers on solar Stirling engines (1972-1978), heat exchangers, regenerator efficiency
