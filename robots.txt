@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://giyas-umarov.com/sitemap.xml

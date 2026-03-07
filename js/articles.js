@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  var THEME_KEY = 'umarov-theme';
+  var THEME_KEY = 'theme';
 
   function getPreferredTheme() {
     var stored = localStorage.getItem(THEME_KEY);
@@ -23,7 +23,6 @@
     // Theme toggle
     var toggleBtn = document.querySelector('.theme-toggle');
     if (toggleBtn) {
-      applyTheme(getPreferredTheme());
       toggleBtn.addEventListener('click', function () {
         var current = document.documentElement.getAttribute('data-theme');
         applyTheme(current === 'dark' ? 'light' : 'dark');
@@ -74,19 +73,5 @@
       }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
       reveals.forEach(function (el) { observer.observe(el); });
     }
-
-    // Language button active state
-    var langBtns = document.querySelectorAll('.lang-btn');
-    var currentPath = window.location.pathname;
-    langBtns.forEach(function (btn) {
-      var lang = btn.getAttribute('data-lang');
-      if (lang === 'en' && !currentPath.match(/^\/(ru|uz|fr|es)\//)) {
-        btn.classList.add('active');
-      } else if (currentPath.indexOf('/' + lang + '/') !== -1) {
-        btn.classList.add('active');
-      } else {
-        btn.classList.remove('active');
-      }
-    });
   });
 })();

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Homepage (multilingual via JS, single URL) -->
+  <url>
+    <loc>https://giyas-umarov.com/</loc>
+    <priority>1.0</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- Nuclear Physics -->
+  <url>
+    <loc>https://giyas-umarov.com/articles/nuclear-physics.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/nuclear-physics.html"/>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/ru/articles/nuclear-physics.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/nuclear-physics.html"/>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/uz/articles/nuclear-physics.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/nuclear-physics.html"/>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/fr/articles/nuclear-physics.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/nuclear-physics.html"/>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/es/articles/nuclear-physics.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/nuclear-physics.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/nuclear-physics.html"/>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
+  <!-- Heliotechnology -->
+  <url>
+    <loc>https://giyas-umarov.com/articles/heliotechnology.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/heliotechnology.html"/>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/ru/articles/heliotechnology.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/heliotechnology.html"/>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/uz/articles/heliotechnology.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/heliotechnology.html"/>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/fr/articles/heliotechnology.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/heliotechnology.html"/>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/es/articles/heliotechnology.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/heliotechnology.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/heliotechnology.html"/>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
+  <!-- Aquifer Thermal Storage -->
+  <url>
+    <loc>https://giyas-umarov.com/articles/aquifer-thermal-storage.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/aquifer-thermal-storage.html"/>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/ru/articles/aquifer-thermal-storage.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/aquifer-thermal-storage.html"/>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/uz/articles/aquifer-thermal-storage.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/aquifer-thermal-storage.html"/>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/fr/articles/aquifer-thermal-storage.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/aquifer-thermal-storage.html"/>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/es/articles/aquifer-thermal-storage.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/aquifer-thermal-storage.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/aquifer-thermal-storage.html"/>
+    <priority>0.8</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
+  <!-- Stirling Engines -->
+  <url>
+    <loc>https://giyas-umarov.com/articles/stirling-engines.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/stirling-engines.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/ru/articles/stirling-engines.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/stirling-engines.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/uz/articles/stirling-engines.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/stirling-engines.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/fr/articles/stirling-engines.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/stirling-engines.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/es/articles/stirling-engines.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/stirling-engines.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/stirling-engines.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
+  <!-- Agricultural Solar -->
+  <url>
+    <loc>https://giyas-umarov.com/articles/agricultural-solar.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/agricultural-solar.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/ru/articles/agricultural-solar.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/agricultural-solar.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/uz/articles/agricultural-solar.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/agricultural-solar.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/fr/articles/agricultural-solar.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/agricultural-solar.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/es/articles/agricultural-solar.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/agricultural-solar.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/agricultural-solar.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
+  <!-- Scientific Legacy -->
+  <url>
+    <loc>https://giyas-umarov.com/articles/scientific-legacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/scientific-legacy.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/ru/articles/scientific-legacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/scientific-legacy.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/uz/articles/scientific-legacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/scientific-legacy.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/fr/articles/scientific-legacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/scientific-legacy.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/es/articles/scientific-legacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/scientific-legacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/scientific-legacy.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
+  <!-- Publications -->
+  <url>
+    <loc>https://giyas-umarov.com/articles/publications.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/publications.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/ru/articles/publications.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/publications.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/uz/articles/publications.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/publications.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/fr/articles/publications.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/publications.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+  <url>
+    <loc>https://giyas-umarov.com/es/articles/publications.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://giyas-umarov.com/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://giyas-umarov.com/ru/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://giyas-umarov.com/uz/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://giyas-umarov.com/fr/articles/publications.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://giyas-umarov.com/es/articles/publications.html"/>
+    <priority>0.7</priority>
+    <changefreq>yearly</changefreq>
+  </url>
+
+</urlset>
